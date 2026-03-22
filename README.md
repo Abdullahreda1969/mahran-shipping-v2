@@ -80,7 +80,12 @@ cd mahran-shipping-v2
 - [ ] نظام التقارير
 - [ ] الإشعارات
 - [ ] التحليلات
+## 🚀 النسخة الحية
 
+تم نشر النسخة التجريبية العاملة من النظام على:
+🔗 [https://abdullahreda1969.github.io/mahran-shipping/](https://abdullahreda1969.github.io/mahran-shipping/)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://abdullahreda1969.github.io/mahran-shipping/)
 ## 🤝 دليل المساهمة
 
 1. افتح Issue للمهمة التي تريد العمل عليها
